@@ -1,0 +1,24 @@
+{
+  "name": "ran-string-msg",
+  "version": "1.0.0",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jandreslopez100/ran-string-msg.git"
+  },
+  "keywords": [],
+  "author": "Jairo Andres Lopez <jandreslopez100@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jandreslopez100/ran-string-msg/issues"
+  },
+  "homepage": "https://github.com/Jandreslopez100/ran-string-msg#readme",
+  "bin": {
+    "ran-string-msg": "bin/global.js"
+  },
+  "preferGlobal": true
+}
